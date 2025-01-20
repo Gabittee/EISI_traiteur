@@ -10,3 +10,4 @@ Review code Sacha Knoplock.
 - Le code ne gère pas les fichiers CSV contenant des en-têtes, ce qui pourrait provoquer des erreurs si le fichier est modifié pour en inclure.
 - Le code n'a aucune sécurité
 - Il manque une gestion des exceptions pour les conversions de chaînes en flottants, ce qui pourrait causer des plantages si les données sont corrompues.
+- 
