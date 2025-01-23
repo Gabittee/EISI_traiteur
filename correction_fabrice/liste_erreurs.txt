@@ -1,0 +1,7 @@
+Absence de données : Aucune mesure de température n’est enregistrée pour une ou plusieurs chambres froides.
+Données incorrectes ou corrompues : Une température affichée sous forme non numérique ou aberrante (exemple : "NaN", -300°C, ou des caractères spéciaux).
+Écarts de formats : Les températures sont enregistrées dans des formats incohérents (exemple : virgule pour certaines et point pour d'autres).
+Nom des chambres mal orthographié : Des noms comme "chambrefroide01" sont affichés incorrectement (exemple : espaces ou caractères manquants).
+Problème d’accès aux données : Si les données proviennent d’un fichier ou d’une base de données, des erreurs de lecture ou de connexion peuvent survenir.
+Problème de format de fichier : Les données sont dans un format non pris en charge ou mal interprété par le programme.
+fichier png à la place
